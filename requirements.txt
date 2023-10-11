@@ -1,0 +1,39 @@
+certifi==2023.7.22
+charset-normalizer==3.3.0
+contourpy==1.1.1
+cycler==0.12.0
+filelock==3.12.4
+fonttools==4.43.0
+fsspec==2023.9.2
+gmpy2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-muov7gw1/gmpy2_1645462616268/work
+huggingface-hub==0.16.4
+idna==3.4
+importlib-resources==6.1.0
+Jinja2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_9fjgzv9ant/croot/jinja2_1666908141308/work
+kiwisolver==1.4.5
+MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_12c133f5-0720-4727-9c18-599a3af825723lzwham3/croots/recipe/markupsafe_1654597866058/work
+matplotlib==3.8.0
+mpmath @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_17iu6a8a3m/croot/mpmath_1690848269369/work
+networkx @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b9af3smw_7/croot/networkx_1690562010704/work
+numpy==1.22.0
+packaging==23.2
+pandas==1.4.0
+Pillow==10.0.1
+pyparsing==3.1.1
+python-dateutil==2.8.2
+pytz==2023.3.post1
+PyYAML==6.0.1
+regex==2023.10.3
+requests==2.31.0
+responsible-nlp @ file:///Users/ysahil/Desktop/ysahil/Academics/UMass/Sem%203/SeldonianNLP/datasets/ResponsibleNLP
+safetensors==0.3.3
+scipy==1.10.0
+six==1.16.0
+sympy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_21kpmugwgm/croot/sympy_1668202392692/work
+tokenizers==0.14.0
+torch==2.1.0
+tqdm==4.62.3
+transformers==4.34.0
+typing_extensions @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1fdywrbp_3/croot/typing_extensions_1690297474455/work
+urllib3==2.0.6
+zipp==3.17.0
